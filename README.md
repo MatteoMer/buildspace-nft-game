@@ -1,6 +1,6 @@
 # The Witcher NFT Game ! 🧙‍♂️
 
-https://buildspace-nft-game.herokuapp.com/
+https://buildspace-nft-game.herokuapp.com/ **RINKEBY NETWORK ONLY**
 
 ## What is it ?
 
